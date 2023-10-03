@@ -1,2 +1,2 @@
 # cryptographyprojects
-chatapplication: a project where host to host chat communication using TCP connection . using Socket programming. the chats are end to end encrpted using ceaser cipher
+chatapplication: a project that uses a TCP connection for host to host chat communication using socket programming. The chats are also end-to-end encrypted with ceaser cipher.
